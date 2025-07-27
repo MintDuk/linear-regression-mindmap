@@ -1,19 +1,27 @@
-# linear-regression-mindmap
-Handwritten mindmap of Linear Regression + Gradient Descent
-# 🧠 Linear Regression – Mindmap Summary
+# 🧠 Linear Regression – Hand-drawn Mindmap
 
-This repository contains my hand-drawn mindmap to review and reflect on the fundamentals of Linear Regression and Gradient Descent.
+This repository contains a handwritten mindmap summarizing the core concepts of Linear Regression and Gradient Descent, including comparisons of loss functions and practical applications in aerospace and robotics.
 
 ## 🖼️ Mindmap Images
 
 | Page | Description |
 |------|-------------|
-| Page 1 | Core concepts of Linear Regression, Gradient Descent |
-| Page 2 | Loss Function comparison + Real-world applications (space, robotics) |
+| Page 1 | Core concepts: Linear Regression, formula breakdown, Gradient Descent |
+| Page 2 | Comparison of Loss Functions (MSE, MAE, Huber) and real-world use cases in embedded AI and space exploration |
 
 <img src="./images/mindmap-page1.jpg" width="600">
 <img src="./images/mindmap-page2.jpg" width="600">
 
-## 🧩 Notes
-- These were drawn by hand as part of Project Falcon – my 5-year roadmap to become an AI engineer in aerospace & robotics.
-- I plan to expand this into code experiments, blogs, and embedded AI applications.
+## 🚀 About this project
+
+This work is part of **Project Falcon** – my 5-year roadmap to become an AI engineer in aerospace and robotics.
+
+🛠 Tools: Pen & Paper  
+🎓 Skills: Mathematical thinking, loss analysis, scientific visualization  
+🛰️ Future goal: Build ML-powered robotic systems for Mars exploration and autonomous rockets.
+
+## 📌 Next steps
+
+- Implement Linear Regression from scratch (NumPy)
+- Apply the model to a real-world dataset (e.g. satellite cost estimation)
+- Extend this project with TinyML experiments (coming soon!)
