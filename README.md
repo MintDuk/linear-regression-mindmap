@@ -9,8 +9,8 @@ This repository contains a handwritten mindmap summarizing the core concepts of 
 | Page 1 | Core concepts: Linear Regression, formula breakdown, Gradient Descent |
 | Page 2 | Comparison of Loss Functions (MSE, MAE, Huber) and real-world use cases in embedded AI and space exploration |
 
-<img src="./images/mindmap-page1.jpg" width="600">
-<img src="./images/mindmap-page2.jpg" width="600">
+<img src="./images/Linear Regression.jpg" width="600">
+<img src="./images/Loss Function & Goal.jpg" width="600">
 
 ## 🚀 About this project
 
